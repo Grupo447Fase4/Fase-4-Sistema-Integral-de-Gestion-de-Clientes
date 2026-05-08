@@ -1,0 +1,158 @@
+[2026-05-08 10:11:08] [INFO    ] ============================================================
+[2026-05-08 10:11:08] [INFO    ]   SOFTWARE FJ — Sistema de Gestión  v1.0
+[2026-05-08 10:11:08] [INFO    ] ============================================================
+[2026-05-08 10:11:08] [INFO    ]   Directorio de trabajo: C:\Users\Kevin\OneDrive\Desktop\Fase_4_Programación\Fase-4-Sistema-Integral-de-Gestion-de-Clientes
+[2026-05-08 10:11:43] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:11:43] [INFO    ] Datos cargados: 0 clientes, 0 servicios, 0 reservas.
+[2026-05-08 10:11:44] [INFO    ] Ventana principal inicializada correctamente.
+[2026-05-08 10:11:44] [INFO    ] Iniciando loop principal de la aplicación.
+[2026-05-08 10:12:06] [INFO    ] Cliente corriente creado: pepito (pepito@email.com)
+[2026-05-08 10:12:06] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:12:06] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:12:06] [INFO    ] Sección 'clientes' actualizada con 1 elemento(s).
+[2026-05-08 10:12:06] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:12:06] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:12:06] [INFO    ] Sección 'servicios' actualizada con 0 elemento(s).
+[2026-05-08 10:12:06] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:12:06] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:12:06] [INFO    ] Sección 'reservas' actualizada con 0 elemento(s).
+[2026-05-08 10:12:06] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:12:08] [INFO    ] Formulario: cliente 'pepito' creado como corriente.
+[2026-05-08 10:12:34] [INFO    ] Cliente regular creado: juanito | Reservas previas: 10
+[2026-05-08 10:12:34] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:12:34] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:12:34] [INFO    ] Sección 'clientes' actualizada con 2 elemento(s).
+[2026-05-08 10:12:34] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:12:34] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:12:34] [INFO    ] Sección 'servicios' actualizada con 0 elemento(s).
+[2026-05-08 10:12:34] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:12:34] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:12:34] [INFO    ] Sección 'reservas' actualizada con 0 elemento(s).
+[2026-05-08 10:12:34] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:12:39] [INFO    ] Formulario: cliente 'juanito' creado como regular.
+[2026-05-08 10:13:23] [INFO    ] Cliente VIP creado: carlitos | Empresa: calitos S.A.S
+[2026-05-08 10:13:23] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:13:23] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:13:23] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:13:23] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:13:23] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:13:23] [INFO    ] Sección 'servicios' actualizada con 0 elemento(s).
+[2026-05-08 10:13:23] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:13:23] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:13:23] [INFO    ] Sección 'reservas' actualizada con 0 elemento(s).
+[2026-05-08 10:13:23] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:13:25] [INFO    ] Formulario: cliente 'carlitos' creado como vip.
+[2026-05-08 10:14:27] [INFO    ] Asesoría creada: 'analisis de requerimientos' | Área: software | Nivel: experto
+[2026-05-08 10:14:27] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:14:27] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:14:27] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:14:27] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:14:27] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:14:27] [INFO    ] Sección 'servicios' actualizada con 1 elemento(s).
+[2026-05-08 10:14:27] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:14:27] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:14:27] [INFO    ] Sección 'reservas' actualizada con 0 elemento(s).
+[2026-05-08 10:14:27] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:14:29] [INFO    ] Formulario: servicio 'analisis de requerimientos' (asesoria) creado.
+[2026-05-08 10:15:02] [INFO    ] Sala creada: 'clases' | Capacidad: 30 | Proyector: True
+[2026-05-08 10:15:02] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:15:02] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:15:02] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:15:02] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:15:02] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:15:02] [INFO    ] Sección 'servicios' actualizada con 2 elemento(s).
+[2026-05-08 10:15:02] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:15:02] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:15:02] [INFO    ] Sección 'reservas' actualizada con 0 elemento(s).
+[2026-05-08 10:15:02] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:15:06] [INFO    ] Formulario: servicio 'clases' (sala) creado.
+[2026-05-08 10:16:15] [INFO    ] Equipo creado: 'espacio en la nube' | Tipo: servidor
+[2026-05-08 10:16:15] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:16:15] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:16:15] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:16:15] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:16:15] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:16:15] [INFO    ] Sección 'servicios' actualizada con 3 elemento(s).
+[2026-05-08 10:16:15] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:16:15] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:16:15] [INFO    ] Sección 'reservas' actualizada con 0 elemento(s).
+[2026-05-08 10:16:15] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:16:17] [INFO    ] Formulario: servicio 'espacio en la nube' (equipo) creado.
+[2026-05-08 10:17:07] [INFO    ] Reserva CREADA | ID: f9a2e163 | Cliente: pepito (corriente) | Servicio: analisis de requerimientos | Horas: 3.0 | Costo: $1,800,000
+[2026-05-08 10:17:07] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:17:07] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:17:07] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:17:07] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:17:07] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:17:07] [INFO    ] Sección 'servicios' actualizada con 3 elemento(s).
+[2026-05-08 10:17:07] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:17:07] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:17:07] [INFO    ] Sección 'reservas' actualizada con 1 elemento(s).
+[2026-05-08 10:17:07] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:17:12] [INFO    ] Formulario: reserva creada | pepito → analisis de requerimientos
+[2026-05-08 10:17:57] [INFO    ] Reserva CREADA | ID: b0615c97 | Cliente: juanito (regular) | Servicio: clases | Horas: 3.0 | Costo: $135,000
+[2026-05-08 10:17:57] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:17:57] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:17:57] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:17:57] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:17:57] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:17:57] [INFO    ] Sección 'servicios' actualizada con 3 elemento(s).
+[2026-05-08 10:17:57] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:17:57] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:17:57] [INFO    ] Sección 'reservas' actualizada con 2 elemento(s).
+[2026-05-08 10:17:57] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:18:00] [INFO    ] Formulario: reserva creada | juanito → clases
+[2026-05-08 10:18:45] [INFO    ] Reserva CREADA | ID: 9e76881c | Cliente: carlitos (vip) | Servicio: espacio en la nube | Horas: 300.0 | Costo: $112,500,000
+[2026-05-08 10:18:45] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:18:45] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:18:45] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:18:45] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:18:45] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:18:45] [INFO    ] Sección 'servicios' actualizada con 3 elemento(s).
+[2026-05-08 10:18:45] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:18:45] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:18:45] [INFO    ] Sección 'reservas' actualizada con 3 elemento(s).
+[2026-05-08 10:18:45] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:18:52] [INFO    ] Formulario: reserva creada | carlitos → espacio en la nube
+[2026-05-08 10:19:00] [INFO    ] Reserva b0615c97 | Estado: pendiente → confirmada | Cliente: juanito | Motivo: Confirmación desde interfaz
+[2026-05-08 10:19:00] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:00] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:19:00] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:19:00] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:00] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:19:00] [INFO    ] Sección 'servicios' actualizada con 3 elemento(s).
+[2026-05-08 10:19:00] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:00] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:19:00] [INFO    ] Sección 'reservas' actualizada con 3 elemento(s).
+[2026-05-08 10:19:00] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:19:06] [INFO    ] Reserva 9e76881c | Estado: pendiente → cancelada | Cliente: carlitos | Motivo: Cancelación desde interfaz
+[2026-05-08 10:19:06] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:06] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:19:06] [INFO    ] Sección 'clientes' actualizada con 3 elemento(s).
+[2026-05-08 10:19:06] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:06] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:19:06] [INFO    ] Sección 'servicios' actualizada con 3 elemento(s).
+[2026-05-08 10:19:06] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:06] [DEBUG   ] Datos escritos correctamente en el archivo de persistencia.
+[2026-05-08 10:19:06] [INFO    ] Sección 'reservas' actualizada con 3 elemento(s).
+[2026-05-08 10:19:06] [DEBUG   ] Datos guardados exitosamente.
+[2026-05-08 10:19:21] [DEBUG   ] Datos leídos correctamente desde el archivo de persistencia.
+[2026-05-08 10:19:21] [INFO    ] Cliente corriente creado: pepito (pepito@email.com)
+[2026-05-08 10:19:21] [INFO    ] Cliente regular creado: juanito | Reservas previas: 10
+[2026-05-08 10:19:21] [INFO    ] Cliente VIP creado: carlitos | Empresa: calitos S.A.S
+[2026-05-08 10:19:21] [INFO    ] Asesoría creada: 'analisis de requerimientos' | Área: software | Nivel: experto
+[2026-05-08 10:19:21] [INFO    ] Sala creada: 'clases' | Capacidad: 30 | Proyector: True
+[2026-05-08 10:19:21] [INFO    ] Equipo creado: 'espacio en la nube' | Tipo: servidor
+[2026-05-08 10:19:21] [INFO    ] Cliente corriente creado: pepito (pepito@email.com)
+[2026-05-08 10:19:21] [INFO    ] Asesoría creada: 'analisis de requerimientos' | Área: software | Nivel: experto
+[2026-05-08 10:19:21] [INFO    ] Reserva CREADA | ID: 5f15c44f | Cliente: pepito (corriente) | Servicio: analisis de requerimientos | Horas: 3.0 | Costo: $1,800,000
+[2026-05-08 10:19:21] [INFO    ] Cliente regular creado: juanito | Reservas previas: 10
+[2026-05-08 10:19:21] [INFO    ] Sala creada: 'clases' | Capacidad: 30 | Proyector: True
+[2026-05-08 10:19:21] [INFO    ] Reserva CREADA | ID: 3e181ae2 | Cliente: juanito (regular) | Servicio: clases | Horas: 3.0 | Costo: $135,000
+[2026-05-08 10:19:21] [INFO    ] Cliente VIP creado: carlitos | Empresa: calitos S.A.S
+[2026-05-08 10:19:21] [INFO    ] Equipo creado: 'espacio en la nube' | Tipo: servidor
+[2026-05-08 10:19:21] [INFO    ] Reserva CREADA | ID: e1d56a25 | Cliente: carlitos (vip) | Servicio: espacio en la nube | Horas: 300.0 | Costo: $112,500,000
+[2026-05-08 10:19:21] [INFO    ] Datos cargados: 3 clientes, 3 servicios, 3 reservas.
+[2026-05-08 10:19:21] [INFO    ] Datos recargados manualmente desde la UI.
+[2026-05-08 10:19:26] [INFO    ] Aplicación cerrada.
+[2026-05-08 10:19:26] [INFO    ] Software FJ cerrado.
