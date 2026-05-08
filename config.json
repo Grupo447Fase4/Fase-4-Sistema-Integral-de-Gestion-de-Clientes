@@ -1,0 +1,184 @@
+{
+    "clientes": [
+        {
+            "id": "b1d8814a-fb77-4ce3-b5ba-5c3fe08c2d73",
+            "nombre": "pepito",
+            "email": "pepito@email.com",
+            "telefono": "21342423541",
+            "rol": "corriente",
+            "descuento": 0.0,
+            "activo": true,
+            "fecha_creacion": "2026-05-08T10:12:06.742904"
+        },
+        {
+            "id": "8fa5f3a5-c50b-4c48-8f1d-5078d4017d1a",
+            "nombre": "juanito",
+            "email": "juanito@email.com",
+            "telefono": "36271385461",
+            "rol": "regular",
+            "descuento": 0.1,
+            "reservas_realizadas": 10,
+            "activo": true,
+            "fecha_creacion": "2026-05-08T10:12:34.635243"
+        },
+        {
+            "id": "acb59a21-4db9-441d-8d08-b2a746fa91fe",
+            "nombre": "carlitos",
+            "email": "carlitos@gmail.com",
+            "telefono": "53264513513",
+            "rol": "vip",
+            "descuento": 0.25,
+            "empresa": "calitos S.A.S",
+            "credito_disponible": 1000000.0,
+            "activo": true,
+            "fecha_creacion": "2026-05-08T10:13:23.142466"
+        }
+    ],
+    "servicios": [
+        {
+            "id": "f875758b-a018-4537-89f5-063f48a6b363",
+            "nombre": "analisis de requerimientos",
+            "precio_hora": 300000.0,
+            "descripcion_servicio": "te ayudamos a enteder los requerimiento de tu software",
+            "tipo_servicio": "asesoria",
+            "area_especialidad": "software",
+            "nivel_asesor": "experto",
+            "disponible": true,
+            "fecha_creacion": "2026-05-08T10:14:27.554255"
+        },
+        {
+            "id": "f5a021f4-f57c-48e5-9426-f8a4a50f4534",
+            "nombre": "clases",
+            "precio_hora": 50000.0,
+            "descripcion_servicio": "te damos clases",
+            "tipo_servicio": "sala",
+            "capacidad": 30,
+            "tiene_proyector": true,
+            "disponible": true,
+            "fecha_creacion": "2026-05-08T10:15:02.682666"
+        },
+        {
+            "id": "5ce10141-83b8-457f-82b6-021275755d6e",
+            "nombre": "espacio en la nube",
+            "precio_hora": 500000.0,
+            "descripcion_servicio": "guarda la info de tu emprasa en nuestra nube",
+            "tipo_servicio": "equipo",
+            "tipo_equipo": "servidor",
+            "requiere_deposito": true,
+            "valor_deposito": 1000000.0,
+            "disponible": true,
+            "fecha_creacion": "2026-05-08T10:16:15.515629"
+        }
+    ],
+    "reservas": [
+        {
+            "id": "f9a2e163-3a28-47a2-9f6a-0337a2c8c844",
+            "cliente": {
+                "id": "b1d8814a-fb77-4ce3-b5ba-5c3fe08c2d73",
+                "nombre": "pepito",
+                "email": "pepito@email.com",
+                "telefono": "21342423541",
+                "rol": "corriente",
+                "descuento": 0.0,
+                "activo": true,
+                "fecha_creacion": "2026-05-08T10:12:06.742904"
+            },
+            "servicio": {
+                "id": "f875758b-a018-4537-89f5-063f48a6b363",
+                "nombre": "analisis de requerimientos",
+                "precio_hora": 300000.0,
+                "descripcion_servicio": "te ayudamos a enteder los requerimiento de tu software",
+                "tipo_servicio": "asesoria",
+                "area_especialidad": "software",
+                "nivel_asesor": "experto",
+                "disponible": true,
+                "fecha_creacion": "2026-05-08T10:14:27.554255"
+            },
+            "horas": 3.0,
+            "estado": "pendiente",
+            "fecha_reserva": "2026-05-12",
+            "fecha_creacion": "2026-05-08T10:17:07.684638",
+            "fecha_modificacion": "2026-05-08T10:17:07.684638",
+            "costo_bruto": 1800000.0,
+            "descuento_aplicado": 0.0,
+            "costo_total": 1800000.0,
+            "notas": "puntualidad"
+        },
+        {
+            "id": "b0615c97-c67b-42ce-97b9-3d1a354f22ee",
+            "cliente": {
+                "id": "8fa5f3a5-c50b-4c48-8f1d-5078d4017d1a",
+                "nombre": "juanito",
+                "email": "juanito@email.com",
+                "telefono": "36271385461",
+                "rol": "regular",
+                "descuento": 0.1,
+                "reservas_realizadas": 10,
+                "activo": true,
+                "fecha_creacion": "2026-05-08T10:12:34.635243"
+            },
+            "servicio": {
+                "id": "f5a021f4-f57c-48e5-9426-f8a4a50f4534",
+                "nombre": "clases",
+                "precio_hora": 50000.0,
+                "descripcion_servicio": "te damos clases",
+                "tipo_servicio": "sala",
+                "capacidad": 30,
+                "tiene_proyector": true,
+                "disponible": true,
+                "fecha_creacion": "2026-05-08T10:15:02.682666"
+            },
+            "horas": 3.0,
+            "estado": "confirmada",
+            "fecha_reserva": "2026-05-9",
+            "fecha_creacion": "2026-05-08T10:17:57.814594",
+            "fecha_modificacion": "2026-05-08T10:19:00.227295",
+            "costo_bruto": 150000.0,
+            "descuento_aplicado": 0.1,
+            "costo_total": 135000.0,
+            "notas": ""
+        },
+        {
+            "id": "9e76881c-690c-41f8-b854-64d199ccc24c",
+            "cliente": {
+                "id": "acb59a21-4db9-441d-8d08-b2a746fa91fe",
+                "nombre": "carlitos",
+                "email": "carlitos@gmail.com",
+                "telefono": "53264513513",
+                "rol": "vip",
+                "descuento": 0.25,
+                "empresa": "calitos S.A.S",
+                "credito_disponible": 1000000.0,
+                "activo": true,
+                "fecha_creacion": "2026-05-08T10:13:23.142466"
+            },
+            "servicio": {
+                "id": "5ce10141-83b8-457f-82b6-021275755d6e",
+                "nombre": "espacio en la nube",
+                "precio_hora": 500000.0,
+                "descripcion_servicio": "guarda la info de tu emprasa en nuestra nube",
+                "tipo_servicio": "equipo",
+                "tipo_equipo": "servidor",
+                "requiere_deposito": true,
+                "valor_deposito": 1000000.0,
+                "disponible": true,
+                "fecha_creacion": "2026-05-08T10:16:15.515629"
+            },
+            "horas": 300.0,
+            "estado": "cancelada",
+            "fecha_reserva": "2026-05-9",
+            "fecha_creacion": "2026-05-08T10:18:45.625855",
+            "fecha_modificacion": "2026-05-08T10:19:06.915824",
+            "costo_bruto": 150000000.0,
+            "descuento_aplicado": 0.25,
+            "costo_total": 112500000.0,
+            "notas": ""
+        }
+    ],
+    "usuarios": [
+        {
+            "username": "admin",
+            "password": "12345"
+        }
+    ]
+}
